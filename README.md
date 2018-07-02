@@ -9,4 +9,4 @@ If you are not happy with result try adjust some parameters.
 
 ![blue dots are keypoints](https://i.imgur.com/WjfiQjw.jpg)
 
-Blue dots are keypoints on original cloud.
+Blue dots shows keypoints on original cloud.
