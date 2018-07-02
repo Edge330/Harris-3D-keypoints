@@ -1,5 +1,5 @@
 # Harris-3D-keypoints
-Example of Harris 3D keypoints algorithm using Point Cloud Library (PCL)
+Example of Harris 3D keypoints algorithm using Point Cloud Library (PCL).
 
 HarrisKeypoint3D uses the idea of 2D Harris keypoints, but instead of using image gradients, it uses surface normals.
 
